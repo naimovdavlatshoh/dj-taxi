@@ -37,7 +37,7 @@ const Login = () => {
 
     return (
         <div className="min-h-screen bg-[#F2F7FC] flex items-center justify-center p-5">
-            <div className="backdrop-blur-lg bg-white/60 shadow-2xl p-10 rounded-3xl w-full max-w-md border border-blue-100 transition-transform hover:scale-[1.03]">
+            <div className="backdrop-blur-lg w-full px-5">
                 <h2 className="text-3xl font-bold text-center mb-8 text-[#333333]">
                     Xush Kelibsiz
                 </h2>
